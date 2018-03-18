@@ -1,7 +1,8 @@
 # About me
-Passionate and curious at heart, I'm a perrson that enjoys good puzzles and challenges. My interests are centered in robotics, but I've also been involved in the Automotive industry since I was little. 
+Passionate and curious at heart, I'm a person that enjoys good puzzles and challenges. My interests are centered in robotics, but I've also been involved in the Automotive industry since I was little. 
 ## Education
-- B.Sc. Mechatronics Engineering
+- B.Sc. Mechatronics Engineering (2017)
+Focused in industrial automation and embedded systems. 
 ## Experience
 ### Tesla | Internship
 **September 2017 - April 2018**
@@ -22,4 +23,4 @@ Validation engineer for the Electrical Engineering department.
 - Leader of the DFMEA project update for Electrical Validation in GM TREC
 - Improved the team's workflow, allowing for a better tracking status of multiple porjects
 # My Projects
-_Coming soon!_
+*Coming soon!*
