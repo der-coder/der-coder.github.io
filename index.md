@@ -2,7 +2,7 @@
 Passionate and curious at heart, I'm a person that enjoys good puzzles and challenges. My interests are centered in robotics, but I've also been involved in the Automotive industry since I was little. 
 
 ## Education
-###B.Sc. Mechatronics Engineering (2017)
+### B.Sc. Mechatronics Engineering (2017)
 Focused in industrial automation and embedded systems. 
 
 ## Experience
